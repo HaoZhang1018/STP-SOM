@@ -1,4 +1,4 @@
-# STP-SOM IJCV
+# STP-SOM IJCV 2023
 The code of STP-SOM: Scale-Transfer Learning for Pansharpening via Estimating Spectral Observation Model
 ````
 @article{zhang2023stp,
